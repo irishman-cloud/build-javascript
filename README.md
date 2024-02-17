@@ -1,6 +1,9 @@
 # ![Irishman Build's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/build-javascript/master/.github/banner.svg)
 
-Create binaries and executables.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/build-javascript)](https://github.com/irishman-cloud/build-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/build-javascript)](https://github.com/irishman-cloud/build-javascript/issues)
+
+<b align="center">Create binaries and executables.</b>
 
 ## Table of Contents
 
